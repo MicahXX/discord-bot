@@ -1,3 +1,4 @@
 This is just the base of an discord bot.
 
-As of right now it can only ping.
+This was made with the hejp of an YT video of Fusion Terror!
+
